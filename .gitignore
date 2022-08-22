@@ -1,4 +1,4 @@
-config/*.yaml
+
 quirks.txt
 picl-k3os-*.img
 deps
